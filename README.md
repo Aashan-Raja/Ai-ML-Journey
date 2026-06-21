@@ -14,7 +14,7 @@ To become a job-ready Data Scientist & AI Engineer with hands-on, production-lev
 - [x] Object-Oriented Programming (Built an OOP Cricket Team Manager)
 
 ### Phase 1: Data Analytics Core (⏳ Current Phase)
-- [ ] NumPy (Arrays, Vectorization, Broadcasting)
+- [x] NumPy (Arrays, Vectorization, Broadcasting)
 - [ ] Pandas (DataFrames, Cleaning, GroupBy, Merging)
 - [ ] Matplotlib & Seaborn (Exploratory Data Analysis)
 - [ ] SQL Core (Joins, Window Functions, Subqueries)
